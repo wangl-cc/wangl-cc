@@ -3,10 +3,11 @@
 Master student of theoretical evolutionary biology in Sun Yat-sen University.
 
 Interests:
-- Theoretical model about Ecology and Evolution.
+- Theoretical modeling:
+  - Evolutionary dynamics.
 - Julia programming language:
-  - Numerically simulation of SDE (Gillespie) and tools.
-  - Symbolic computing.
+  - Numerically simulation of SDE (Gillespie) and tools,
+  - Symbolic computing,
   - Metaprogramming.
 
 Links:
