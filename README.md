@@ -4,8 +4,10 @@ Master student of theoretical evolutionary biology in Sun Yat-sen University.
 
 Interests:
 - Theoretical model about Ecology and Evolution.
-- Julia programming language.
-- Vim editor.
+- Julia programming language:
+  - Numerically simulation of SDE (Gillespie) and tools.
+  - Symbolic computing.
+  - Metaprogramming.
 
 Links:
 - Email: <wangl.cc@outlook.com>
