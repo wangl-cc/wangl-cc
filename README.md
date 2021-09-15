@@ -1,4 +1,5 @@
-# Long Wang (@wangl-cc)
+# Loong Wang (@wangl-cc)
+
 
 Master student of theoretical evolutionary biology in Sun Yat-sen University.
 
@@ -14,3 +15,7 @@ Links:
 - Email: <wangl.cc@outlook.com>
 - Homepage: <https://wangl-cc.github.io>
 - Twitter: [Loong Wang](https://twitter.com/LoongWANG3)
+
+[![Loong's Github Stats](https://github-readme-stats.vercel.app/api?username=wangl-cc&count_private=true&show_icons=true)](https://github.com/wangl-cc)
+
+[![Loong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LoongWang&layout=compact)](https://github.com/wangl-cc)
